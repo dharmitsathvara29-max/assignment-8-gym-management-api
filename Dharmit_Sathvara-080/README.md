@@ -2,6 +2,8 @@
 
 Backend Development assignment based on the specification in the reference repository README.
 
+Live link: https://assignment-8-gym-management-api-x9gw.onrender.com
+
 ## Tech Stack
 
 - Node.js
